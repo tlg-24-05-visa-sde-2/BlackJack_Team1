@@ -2,6 +2,6 @@
 Practice project based on BlackJack
 
 Project Team
-* OWen
+* Owen
 * Alice
 * Bob
